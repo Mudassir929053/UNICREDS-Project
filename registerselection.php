@@ -16,6 +16,8 @@ include 'main/pages-head.php';
 
 <body>
 	<!-- Page content -->
+	<!-- Page content -->
+
 
 	<div class="container d-flex flex-column">
 		<div class="row align-items-center justify-content-center g-0 min-vh-100">
