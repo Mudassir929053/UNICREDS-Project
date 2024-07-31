@@ -37,7 +37,7 @@ include 'main/pages-head.php';
 </style>
 
 <body style="background-color:#FFFFFF;">
-	<!-- Navbar -->
+	<!-- Navbar  -->
 	<?php
 	include 'main/pages-header.php';
 	?>
