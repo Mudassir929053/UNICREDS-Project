@@ -8,7 +8,7 @@ session_start();
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 use PHPMailer\PHPMailer\SMTP; 
-//Load Composer's autoloader
+//Load Composer's autoloader 
 require 'vendor/autoload.php';
 // require '../vendor/phpmailer\phpmailer/src/PHPMailer.php';
 // require '../vendor/phpmailer/phpmailer/src/SMTP.php';
