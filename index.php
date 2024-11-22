@@ -10,7 +10,7 @@ include 'function.php';
 include 'main/pages-head.php';
 ?>
 <style>
-	/* Default style with no padding */
+	/* Default style with no padding */ 
 	#slider {
 		padding: 0;
 	}
