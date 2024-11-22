@@ -20,7 +20,6 @@ include 'main/pages-head.php';
 		#slider {
 			padding: 0 100px;
 		}
- 
 		#chevron { 
 			background-color: #FFFFFF;
 			padding: 10px;
