@@ -6,7 +6,7 @@ include 'function.php';
 
 <html lang="en">
 
-<?php
+<?php 
 include 'main/pages-head.php';
 ?>
 <style>
