@@ -21,7 +21,7 @@ include 'main/pages-head.php';
 			padding: 0 100px;
 		}
  
-		#chevron {
+		#chevron { 
 			background-color: #FFFFFF;
 			padding: 10px;
 			border-radius: 50px;
