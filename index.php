@@ -313,7 +313,7 @@ include 'main/pages-head.php';
 							while ($rows = mysqli_fetch_object($querycourse)) {
 								$user_id = $rows->user_id;
 						?>
-
+ 
 								<div class="item">
 									<!-- Card -->
 									<div class="card mb-4 ml-xl-5 card-hover col-xl-10 col-lg-12">
