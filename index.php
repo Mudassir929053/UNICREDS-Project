@@ -219,7 +219,7 @@ include 'main/pages-head.php';
 							<div class="text-center my-4 custom-shadow" style="width: 80%; margin: 0 auto;">
 								<a href="#" class="btn text-white shadow-lg" style="border-radius: 30px;background-color: #107575; padding: 10px 80px 10px 80px; border:1px solid #107575;font-size: larger;">Learn More</a>
 							</div>
-						</div>
+						</div> 
 					</div>
 				</div>
 				<div class="col-xl-6 col-lg-6 col-md-12 text-lg-center">
