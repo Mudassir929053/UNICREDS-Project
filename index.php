@@ -91,7 +91,7 @@ include 'main/pages-head.php';
 					<div class="card col-lg-2 mr-md-5 col-md-5 mb-4 shadow-lg">
 						<!-- Card body --> 
 						<div class="card-body text-center">
-							<div class="mb-4">
+							<div class="mb-4"> 
 								<div class="mb-3">
 									<!-- Img -->
 									<img src="assets/images/icon/Group145.png" alt="" class="d-inline-block align-top" width="100" height="100">
