@@ -89,7 +89,7 @@ include 'main/pages-head.php';
 						</div>
 					</div>
 					<div class="card col-lg-2 mr-md-5 col-md-5 mb-4 shadow-lg">
-						<!-- Card body -->
+						<!-- Card body --> 
 						<div class="card-body text-center">
 							<div class="mb-4">
 								<div class="mb-3">
