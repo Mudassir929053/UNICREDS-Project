@@ -113,7 +113,7 @@ include 'main/pages-head.php';
 							</div>
 							<div class="font-weight-bold w-100 p-3 display-6" style="color: #000000;font-size:x-large;">Tailored programs for specific industries and job roles.</div>
 						</div>
-					</div>
+					</div> 
 					<div class="card col-lg-2 mr-md-5 col-md-5 mb-4 shadow-lg">
 						<!-- Card body -->
 						<div class="card-body text-center">
