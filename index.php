@@ -211,7 +211,7 @@ include 'main/pages-head.php';
 							<img src="assets/images/icon/Group160.png" alt="" width="80" height="80">
 						</div>
 						<div class="col">
-							<p class="h2">offer employment opportunity for recent graduates.</p>
+							<p class="h2">offer employment opportunity for recent graduates.</p> 
 						</div>
 					</div>
 					<div class="row">
