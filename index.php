@@ -170,7 +170,7 @@ include 'main/pages-head.php';
 							<p class="h2">Build an impressive portfolio while studying to showcase growth and skills to future employers.</p>
 						</div>
 					</div>
-					<div class="row">
+					<div class="row"> 
 						<div class="col-12">
 							<div class="text-center my-4 custom-shadow" style="width: 80%; margin: 0 auto;">
 								<a href="#" class="btn text-white shadow-lg" style="border-radius: 30px;background-color: #107575; padding: 10px 80px 10px 80px; border:1px solid #107575;font-size: larger;">Learn More</a>
