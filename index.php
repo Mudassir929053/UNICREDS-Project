@@ -27,7 +27,7 @@ include 'main/pages-head.php';
 			color: #777777;
 			font-size: 3em;
 		}
-	}
+	} 
 
 	#chevron:hover {
 		background-color: #6600FF;
