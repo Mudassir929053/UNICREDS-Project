@@ -8,7 +8,7 @@ include 'function.php';
 
 <?php 
 include 'main/pages-head.php';
-?>
+?> 
 <style>
 	/* Default style with no padding */  
 	#slider { 
