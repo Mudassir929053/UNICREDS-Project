@@ -7,7 +7,7 @@ include 'function.php';
 <html lang="en">
 
 <?php 
-include 'main/pages-head.php';  
+include 'main/pages-head.php';
 ?> 
 <style> 
 	/* Default style with no padding */  
