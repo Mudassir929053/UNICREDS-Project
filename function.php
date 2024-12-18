@@ -18,9 +18,6 @@ require 'vendor/autoload.php';
 // require '../vendor/phpmailer/phpmailer/src/Exception.php';
 // require '../vendor/phpmailer/phpmailer/src/Exception.php';
 // require '../vendor/phpmailer/phpmailer/src/Exception.php';
-
-  
-
  
 // Login Credentials
 if(isset($_POST['btnLogin']))
