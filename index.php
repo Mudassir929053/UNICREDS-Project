@@ -17,7 +17,7 @@ include 'main/pages-head.php';
     
 	/* Media query for screens wider than 800px */ 
 	@media (min-width: 800px) {
-		#slider { 
+		#slider {  
 			padding: 0 100px;
 		}
 		#chevron { 
