@@ -11,7 +11,7 @@ include 'main/pages-head.php';
 ?> 
 <style> 
 	/* Default style with no padding */  
-	#slider {  
+	#slider {   
 		padding: 0;   
 	}   
       
