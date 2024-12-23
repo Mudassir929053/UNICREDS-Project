@@ -12,7 +12,7 @@ include 'main/pages-head.php';
 <style> 
 	/* Default style with no padding */  
 	#slider { 
-		padding: 0;
+		padding: 0; 
 	}  
     
 	/* Media query for screens wider than 800px */ 
