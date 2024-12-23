@@ -15,7 +15,7 @@ include 'main/pages-head.php';
 		padding: 0;
 	}
    
-	/* Media query for screens wider than 800px */
+	/* Media query for screens wider than 800px */ 
 	@media (min-width: 800px) {
 		#slider { 
 			padding: 0 100px;
